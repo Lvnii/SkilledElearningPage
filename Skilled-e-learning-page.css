@@ -1,0 +1,417 @@
+.button:hover
+{
+    color: #FFA7C3;
+    transition-duration: 0.4s;
+}
+
+.header
+{
+    width: 1440px;
+    height: 120px;
+}
+
+.skilled-black
+{
+    margin-left: 165px;
+    margin-top: 50px;
+}
+
+.Get-Started-first
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 1570px;
+    margin-top: -48px;
+    height: 56px;
+    width: 130px;
+    font-size: 16px;
+    background-color: #13183F;
+    border-radius: 28px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding-right: 20px;
+    font-family: 'outfit';
+    border: 0px;
+    cursor: pointer;
+}
+
+.first-div
+{
+    height: 143px;
+    width: 457px;
+    color: #13183F;
+    font-family: 'outfit';
+    font-size: 40px;
+    font-weight: 800;
+    position: absolute;
+    left: 165px;
+    padding-top: 50px;
+}
+
+.hero
+{
+    width: 708px;
+    height: 875px;
+    position: absolute;
+    left: 871px;
+    margin-top: -340px;
+    margin-left: 320px;
+    overflow: hidden;
+}
+
+.first-txt
+{
+    margin-top: 25px;
+    position: absolute;
+    left: 165px;
+    top: 424px;
+    width: 445px;
+    height: 84px;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'outfit';
+    color: #83869A;
+}
+
+.second-get
+{
+    position: absolute;
+    margin-bottom: 50px;
+    margin-top: -260px;
+    padding-left: 21px;
+    height: 56px;
+    width: 130px;
+    font-size: 16px;
+    background-image: linear-gradient(#FF6F48,#F02AA6);
+    border-radius: 28px;
+    color: white;
+    align-items: center;
+    padding-right: 25px;
+    margin-left: 160px;
+    font-family: 'outfit';
+    border: 0px;
+    cursor: pointer;
+}
+
+.check-out
+{
+    width: 322px;
+    height: 350px;
+    top: 860px;
+    background-image: linear-gradient(#ff6f48,#f02aa6);
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'outfit';
+    border-radius: 15px;
+    margin-left: 402px;
+    margin-top: 650px;
+}
+
+.check-txt
+{
+    margin-left: 32px;   
+}
+
+.animation
+{
+    position: absolute;
+    left: 545px;
+    height: 350px;
+    width: 322px;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: -350px;
+    margin-left: 240px
+}
+
+.animation-icon
+{
+    margin-left: 30px;
+    margin-top: -25px;
+}
+
+.animation-header
+{
+    font-weight: 800;
+    font-size: 24px;
+    font-family: 'outfit';
+    color: #13183F;
+    margin-left: 30px;
+}
+
+.animation-text
+{
+    font-size: 20px;
+    color:#83869A ;
+    font-weight: 500;
+    font-family: 'outfit';
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.animation-b
+{
+    background-color: white;
+    color: #f74780;
+    border: 0px;
+    font-family: 'outfit';
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 30px;
+    margin-top: 55px;
+    cursor: pointer;
+}
+
+.design
+{
+    height: 350px;
+    width: 322px;
+    left: 925px;
+    border-radius: 15px;
+    background-color: white;
+    position: absolute;
+    font-family: 'outfit';
+    margin-top: -350px;
+    margin-left: 240px;
+}
+
+.icon-design
+{
+    position: absolute;
+    left: 30px;
+    top: -25px;
+}
+
+.design-header
+{
+    font-weight: 800;
+    font-size: 24px;
+    color: #13183F;
+    margin-left: 30px;
+    margin-top: 58px;
+}
+
+.design-text
+{
+    font-size: 20px;
+    font-family: 'outfit';
+    font-weight: 500;
+    color: #83869A;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 68px;
+}
+
+.design-b
+{
+    background-color: white;
+    color: #f74780;
+    border: 0px;
+    font-family: 'outfit';
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 30px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.photography
+{
+    width: 322px;
+    height: 350px;
+    left: 170px;
+    bottom: -580px;
+    border-radius: 15px;
+    background-color: white;
+    position: absolute;
+    font-family: 'outfit';
+    margin-bottom: -80px;
+    margin-left: 240px;
+}
+
+.icon-photography
+{
+    position: absolute;
+    left: 30px;
+    top: -25px;
+}
+
+.photography-header
+{
+    font-weight: 800;
+    font-size: 24px;
+    color: #13183F;
+    margin-left: 30px;
+    margin-top: 58px;
+}
+
+.photography-text
+{
+    font-size: 20px;
+    font-family: 'outfit';
+    font-weight: 500;
+    color: #83869A;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 68px;
+}
+
+.photography-b
+{
+    background-color: white;
+    color: #f74780;
+    border: 0px;
+    font-family: 'outfit';
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.crypto
+{
+    width: 322px;
+    height: 350px;
+    left: 545px;
+    bottom: -580px;
+    border-radius: 15px;
+    background-color: white;
+    position: absolute;
+    font-family: 'outfit';
+    margin-bottom: -80px;
+    margin-left: 240px;
+}
+
+.icon-crypto
+{
+    position: absolute;
+    left: 30px;
+    top: -25px;
+}
+
+.crypto-header
+{
+    font-weight: 800;
+    font-size: 24px;
+    color: #13183F;
+    margin-left: 30px;
+    margin-top: 58px;
+}
+
+.crypto-text
+{
+    font-size: 20px;
+    font-family: 'outfit';
+    font-weight: 500;
+    color: #83869A;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 68px;
+}
+
+.crypto-b
+{
+    background-color: white;
+    color: #f74780;
+    border: 0px;
+    font-family: 'outfit';
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.business
+{
+    width: 322px;
+    height: 350px;
+    left: 925px;
+    bottom: -580px;
+    border-radius: 15px;
+    background-color: white;
+    position: absolute;
+    font-family: 'outfit'; 
+    margin-bottom: -80px;
+    margin-left: 240px;
+}
+
+.icon-business
+{
+    position: absolute;
+    left: 30px;
+    top: -25px;
+}
+
+.business-header
+{
+    font-weight: 800;
+    font-size: 24px;
+    color: #13183F;
+    margin-left: 30px;
+    margin-top: 58px;
+}
+
+.business-text
+{
+    font-size: 20px;
+    font-family: 'outfit';
+    font-weight: 500;
+    color: #83869A;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 68px;
+}
+
+.business-b
+{
+    background-color: white;
+    color: #f74780;
+    border: 0px;
+    font-family: 'outfit';
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.footer
+{
+    margin-top: 525px;
+    background-color: #13183F;
+    width: 1899px;
+    height: 120px;
+    margin-left: -8px;
+    margin-bottom: -10px;
+}
+
+.skilled-light
+{
+    margin-left: 165px;
+    margin-top: 50px; 
+}
+
+.Get-Started-bottom
+{
+    display: flex;
+    align-items: center;
+    margin-left: 1575px;
+    margin-top: -50px;
+    font-size: 18px;
+    background-image: linear-gradient(#4851FF,#F02AA6);
+    color: white;
+    font-family: 'outfit';
+    border-radius: 28px;
+    border: 0px;
+    width: 125px;
+    height: 56px;
+    padding-left: 30px;
+    cursor: pointer;
+}
